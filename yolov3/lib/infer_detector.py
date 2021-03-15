@@ -22,7 +22,7 @@ class Infer():
 
 
         self.system_dict["params"] = {};
-        self.system_dict["params"]["output"] = "/content/drive/My Drive/Datasets/Results/BOZEN_RES/batch-8/Output";
+        self.system_dict["params"]["output"] = "/content/drive/My Drive/Datasets/P_Reports/Results/batch-8/Output";
         
 
         self.system_dict["params"]["fourcc"] = "mp4v";
