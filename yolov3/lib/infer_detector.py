@@ -202,7 +202,7 @@ class Infer():
                             plot_one_box(xyxy, im0, label=label, color=colors[int(cls)])
 
                 # Print time (inference + NMS)
-                print('%sDone. (%.3fs)' % (s, time.time() - t))
+                #print('%sDone. (%.3fs)' % (s, time.time() - t))
 
                 # Stream results
                 if view_img:
